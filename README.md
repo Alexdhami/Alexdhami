@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alexdhami___) [![Email](https://img.shields.io/badge/alexdhami%40proton.me-6D4AFF?logo=protonmail&logoColor=white)](mailto:alexdhami@proton.me)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alexdhami___) [![Email](https://img.shields.io/badge/alexdhami%40proton.me-6D4AFF?logo=protonmail&logoColor=white)](https://mail.proton.me/compose?to=alexdhami@proton.me)
 
 
 
