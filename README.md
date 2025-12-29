@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Alex.
+# 👋 Hey, I’m Alex.
 💻 Into C/C++ and Assembly, with an interest in low-level programming<br><br>🎮 Enjoy building GUI and TUI projects<br><br>🐧 Linux user (Arch btw)  who likes clean, customized setups<br><br>🧠 Learning by experimenting and breaking things<br><br>🚀 Focused on simple, efficient code
 
 
