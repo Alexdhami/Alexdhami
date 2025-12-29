@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m Alex<br><br>💻 Into C/C++ and Assembly, with an interest in low-level programming<br><br>🎮 Enjoy building GUI and TUI projects<br><br>🐧 Linux user (Arch btw)  who likes clean, customized setups<br><br>🧠 Learning by experimenting and breaking things<br><br>🚀 Focused on simple, efficient code
+# 👋 Hi, I’m Alex.
+💻 Into C/C++ and Assembly, with an interest in low-level programming<br><br>🎮 Enjoy building GUI and TUI projects<br><br>🐧 Linux user (Arch btw)  who likes clean, customized setups<br><br>🧠 Learning by experimenting and breaking things<br><br>🚀 Focused on simple, efficient code
 
 
 ## 🌐 Profiles:
