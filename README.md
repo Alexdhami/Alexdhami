@@ -12,9 +12,3 @@
 ### Social : [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alexdhami___)
 
 ### Email : [![Email](https://img.shields.io/badge/alexdhami%40proton.me-6D4AFF?logo=protonmail&logoColor=white)](https://mail.proton.me/compose?to=alexdhami@proton.me)
-
-
-
-## 💻 Tech Stack:
-
-[![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)](https://www.geeksforgeeks.org/python/python-programming-language-tutorial) [![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)](https://www.programiz.com/c-programming) [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/) [![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white)](https://www.tutorialspoint.com/assembly_programming/index.htm)
